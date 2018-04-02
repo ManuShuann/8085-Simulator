@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry excluding="main_project/src/" kind="src" path=""/>
-	<classpathentry kind="src" path="main_project/src"/>
-	<classpathentry kind="lib" path="E:/softwares/ojdbc7.jar"/>
-	<classpathentry kind="output" path="main_project/build/classes"/>
-</classpath>
